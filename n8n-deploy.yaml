@@ -1,4 +1,4 @@
-# ~/k8s/n8n-deploy.yaml
+# ~/n8n-deploy.yaml
 ---
 apiVersion: apps/v1
 kind: Deployment
