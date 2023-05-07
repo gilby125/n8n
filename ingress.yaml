@@ -12,6 +12,6 @@ spec:
         pathType: Prefix
         backend:
           service:
-            name: random-echo
+            name: n8n-deployment
             port:
-              number: 8080
+              number: 5678
